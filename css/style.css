@@ -1,0 +1,598 @@
+body{
+    color: gray;
+    
+}
+header .navbar .nav-link,
+header .navbar .nav-link.active {
+    color: #fff;
+    overflow: hidden;
+}
+
+header .navbar .nav-item {
+    margin-right: 1.5rem;
+    overflow: hidden;
+}
+
+.v-sep {
+    position: relative;
+    padding: 0 1.5rem;
+    overflow: hidden;
+}
+
+.v-sep::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 50%;
+    height: 16px;
+    margin-top: -8px;
+    border-left: 1px solid rgba(255, 255, 255, 0.2);
+    overflow: hidden;
+}
+
+.v-sep:last-child {
+    padding-right: 0;
+    overflow: hidden;
+}
+
+
+#azoze .carousel-item {
+    height: 100vh;
+    overflow: hidden;
+}
+
+#azoze .carousel-item img {
+    object-fit: cover;
+    height: 100%;
+    overflow: hidden;
+}
+
+#azoze .carousel-caption {
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    display: flex !important;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(0, 0, 0, 0.55);
+    overflow: hidden;
+}
+
+#azoze .carousel-indicators [data-bs-target] {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    overflow: hidden;
+}
+
+#azoze .carousel-item {
+    cursor: w-resize;
+    overflow: hidden;
+}
+
+#azoze .carousel-caption .h1 {
+    font-size: 4.5rem;
+    line-height: 4rem;
+    overflow: hidden;
+}
+
+header .dropdown-menu {
+    background-color: #222;
+    overflow: hidden;
+}
+
+header .dropdown-item {
+    color: #fff;
+    overflow: hidden;
+}
+
+header .dropdown-item:hover {
+    background-color: transparent;
+    color: #ddd;
+    overflow: hidden;
+}
+
+.carousel-inner .btn-hero{
+    padding-top: 3rem !important;
+    overflow: hidden;
+}
+#azoze2{
+    background-image: url(../imags/c035076b-3e22-4362-85b0-6fea577e8624.jfif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    overflow: hidden;
+    background-position: 50% 50%;
+    
+}
+
+#azoze2 .posi{
+    position: relative ;
+    overflow: hidden; 
+}
+.m{
+    position: absolute !important;
+    justify-content: flex-end !important;
+    align-self: flex-end;
+    
+    overflow: hidden;
+}
+
+.m1{
+    font-size: 1.5rem;
+    color: red;
+    overflow: hidden;
+}
+.m2 h3 {
+    font-size: 2.6rem;
+    color: #000;
+    overflow: hidden;
+}
+.m3{
+    padding-top: 1rem;
+    overflow: hidden;
+}
+
+.mm{
+    display: flex;
+    margin-top: 6rem;
+    overflow: hidden;
+}
+
+.n1,.n2{
+    color: rgb(251, 48, 48) ;
+    padding-bottom: 2.5rem;
+    font-size: 4rem;
+    overflow: hidden;
+}
+
+.n2{
+    padding-left: 100px;
+    overflow: hidden;
+}
+
+p span{
+    color: #000;
+    font-size: 1.2rem;
+    font-weight: bold;
+    overflow: hidden;
+}
+.m5 p{
+    padding-left: 100px;
+    overflow: hidden;
+}
+
+#azoze3{
+    text-align: center;
+    margin-top: 10rem;
+    overflow: hidden;
+}
+
+#azoze3 .c1{
+    color: rgb(14, 13, 13);
+    font-size: 3rem;
+    font-weight: bold;
+    overflow: hidden;
+}
+
+#azoze3 .c2{
+    font-size: 1rem;
+    overflow: hidden;
+}
+
+#azoze4{
+    display: flex;
+    margin: 6rem;
+    text-align: center ;
+    overflow: hidden;
+}
+
+.card{
+    width: 25% !important;
+    height: 100% !important;
+    padding-left:25px !important ;
+    overflow: hidden;
+}
+
+
+.n3{
+    color: rgb(251, 48, 48) ;
+    font-size: 4rem;
+    margin: 1.5rem;
+    overflow: hidden;
+}
+
+.l{
+    font-weight: bold;
+    padding-bottom: 12px;
+    overflow: hidden;
+
+}
+
+#azoze5{
+    display: flex;
+    padding: 0;
+    overflow: hidden;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 25% !important;
+    overflow: hidden;
+}
+#azoze6{
+    margin: 3rem 0;
+    background-color: white;
+    color: #000;
+    align-items:center;
+    padding: 2rem;
+    align-content: center;
+    overflow: hidden;
+  
+    
+}
+
+#azoze7{
+    text-align: center;
+    margin-top: 150px;
+    margin-bottom: 120px;
+    overflow: hidden;
+}
+
+.hov:hover{
+    color: #000 !important;
+    overflow: hidden;
+}
+.q{
+    color: #000;
+    margin-top: 2rem;
+    margin-left: 4rem !important;
+    margin-bottom: 2rem;
+    font-size: 30px;
+    font-weight: 700;
+    overflow: hidden;
+}
+
+.q2{
+    display: flex;
+    overflow: hidden;
+}
+
+.q3{
+    
+    overflow: hidden;
+}
+
+.q5{
+    margin-top: 2.9rem;
+    display: flex;
+    overflow: hidden;
+}
+ 
+.q6{
+    display: flex;
+    overflow: hidden;
+}
+
+.q7{
+    display: flex;
+    overflow: hidden;
+}
+
+.q8{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    justify-content:space-around;
+    padding: 2.5rem;
+    width: 100%;
+    overflow: hidden;
+}
+.azoze9 .row{
+    margin-top: 7rem;
+ }
+ .azoze9 {
+    margin-top: 5rem;
+    background-image: url(../imags/d7ee9400-b0bd-4387-b198-f0ddbc1466a9.jfif);
+    height: 95vh;
+    
+    width: 100%;
+    overflow: hidden;
+}
+.azoze9 .img-lab{
+    width: 100%;
+}
+.azoze9.par01 h1{
+    width: 100%;
+}
+.azoze9.par01{
+    width: 75%;
+    
+}
+.azoze9 .par1 p>i{
+    color: rgb(230, 31, 31);
+    margin-right: .5rem;
+}
+.azoze9 .par1 p,hr{
+    text-align: left;
+    color: #a0a0a0;
+}
+.azoze9 p{
+    width: 75%;
+}
+.azoze9{
+    background-image: url(../imags/d7ee9400-b0bd-4387-b198-f0ddbc1466a9.jfif);
+    overflow: hidden;}
+    #azoze9{
+        margin-top: 6rem;
+        height:55vh ;
+    }
+    .aze2{
+        height:55vh;
+    }
+    .aze3 span{
+        color: #000;
+        text-align: left;
+        margin-bottom: 2rem;
+        font-size: 2rem;
+        width: 100%;
+       
+    }
+.aze2{
+    text-align: left;
+    width: 80%
+    
+}
+.aze2 hr{
+    margin-top: -.7rem;
+}
+.aze2 p{
+    color: rgb(128, 125, 125);
+    margin-top: 1rem;
+}
+.aze2 button:hover{
+    background-color: aliceblue;
+
+}
+.btnf{
+    background-color: #000;
+    border-color: #000;
+    border-radius: 5px;
+    color: white;
+    height: 2.5rem;
+}
+.btnf:hover
+{
+    background-color: transparent;
+    border-color: #000;
+    color: #000;
+}
+
+
+#azoze10{
+    display: flex;
+    margin-top: 2.5rem;
+    overflow: hidden;
+}
+
+p a .e:hover{
+    color: #000;
+    overflow: hidden;
+}
+#azoze11{
+    margin: 5rem;
+    overflow: hidden;
+}
+
+.q12{
+    border-bottom: 1px solid rgba(0,0, 0, 0.5) ;
+    overflow: hidden;
+}
+
+#azoze13{
+    margin-top: 8rem;
+    overflow: hidden;
+}
+
+
+.azoze14{
+    overflow: hidden;
+    height: 85vh;
+    background-color: rgb(255, 255, 255);
+    margin-top: 120px;
+    overflow: hidden;
+    
+}
+.azoze14 img{
+    max-width: 100%;
+    height: 85vh;
+    overflow: hidden;
+    
+}
+.azoze14 .row .xrow{
+width: 70%;
+margin: 15%;
+overflow: hidden;
+}
+.azoze14 .row .xrow>p{
+text-align: left;
+color: red;
+overflow: hidden;
+}
+.azoze14.row .xrow>h1{
+font-size: 3rem;
+margin-bottom: .5rem;
+overflow: hidden;
+}
+.azoze14 .row .xrow>span{
+    color: gray;
+    overflow: hidden;
+    
+}
+.azoze14 .row .xrow>.btnf{
+    margin-top: 2rem;
+    overflow: hidden;
+}
+.sec1 .sec01 i{
+    font-size: 3rem;
+    margin-right: .5rem;
+    overflow: hidden;
+
+}
+.sec1 .sec01 {
+    margin: 5rem;
+    overflow: hidden;
+  
+}
+.sec1 .sec01 p{
+    font-size: small;
+    margin-top: -.3rem;
+    color: #797676;
+    overflow: hidden;
+}
+.sec2 .iconn{
+    font-size: 6rem;
+    margin-top: 8rem;
+    margin-bottom: 1rem;
+    overflow: hidden;
+}
+.sec2{
+    
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("../imags/parallax-bg6.jpg");
+    width: 100%;
+    height: 85vh;
+    background-size: cover;
+    
+    background-position: 50% 50%;
+    position: relative;
+    background-repeat: no-repeat;
+    overflow: hidden;
+    
+}
+.sec02 p{
+    margin-top: 2rem;
+    margin-bottom:3rem;
+    color: rgb(177, 177, 177);
+    overflow: hidden;
+}
+.sec02{
+    
+    text-align: center;
+    color:rgb(219, 219, 219);
+    overflow: hidden;
+    
+}
+
+.btnm{
+    background-color: #fff;
+    border-color: #fff;
+    border-radius: 10px;
+    overflow: hidden;
+    
+    color: black;
+    height: 2.5rem;
+    margin-top: 1.5rem;
+    overflow: hidden;
+}
+.btnm:hover
+{
+    background-color: rgba(0, 0, 0, 0);
+    border-color: #fff;
+    color: #fff;
+    overflow: hidden;
+}
+.sec3{
+    width: 80pc;
+    height: 15pc;
+    margin-left: 10pc;
+    overflow: hidden;
+    margin-top: 5rem;
+    margin-bottom: -3rem;
+    
+}
+#sec4{
+    height: 20pc;
+    text-align: center;
+    margin-top: 3rem;
+    margin-bottom: 120px;
+    margin-bottom: 40px;
+   
+    background-color: #d8d5d5;
+    padding-top: 5pc;
+    overflow: hidden;
+    
+}
+#sec5{
+    height: 20pc;
+    text-align: center;
+    margin-top: 150px;
+    margin-bottom: 120px;
+    margin-bottom: 40px;
+    margin-top: 70px;
+    padding-top: 5pc;
+    overflow: hidden;
+}
+.sec006 img{
+    padding: .7rem;
+    width: 100%;
+    overflow: hidden;
+   
+ }
+ .sec6{
+    display: flex;
+    width: 80pc;
+    margin-left: 8pc;
+    overflow: hidden;
+    margin-bottom: 10pc;
+ }
+ .sec6 img:hover{
+    transform: scale(1.2 ,1.2);
+    
+ }
+    .sec7{
+        background-color: #000;
+        height: 10pc;
+        text-align: center;
+        margin-top: 150px;
+        
+        margin-top: 70px;
+       
+        padding-top: 5pc;
+        overflow: hidden;;
+        
+    }
+    .gk1 img:hover{
+        transform: scale(0.9 ,0.9);
+
+    }
+    .btn{
+        color: #fff;
+    }
+    .btn:hover{
+        background-color: white;
+    border-color:#000;
+    color:#000;
+    
+
+
+    }
+    .ASDE{
+        overflow: hidden;
+    }
+    .sec6 a:hover{
+        color: red;
+    }
+    .sec6 a{
+       text-decoration: none;
+       color: rgb(136, 133, 133);
+    }
+    .ket1{
+        margin-top: 4rem;
+       
+    }
+    .sec7 i{
+        color: #fff;
+        margin: 0 1rem;
+    }
+    
